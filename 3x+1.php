@@ -12,6 +12,6 @@ while ($number != 1) {
         $number = 3 * $number + 1;
     }
 
-    echo $number."<br>";
+    echo "Collatz Sequence: ".$number."<br>";
 }
 ?>
