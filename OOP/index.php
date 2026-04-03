@@ -15,5 +15,6 @@ echo "Interval: $start - $end <br><br>";
 echo "Number with MAX iterations: " . $stats["maxIterationsNumber"] . "<br>";
 echo "Number with MIN iterations: " . $stats["minIterationsNumber"] . "<br>";
 echo "Number with MAX reached value: " . $stats["maxValueNumber"] . "<br>";
+echo "Updated from feature branch"."<br>";
 
 ?>
